@@ -1,0 +1,2 @@
+# EasyTestSwarmuiAPI
+用于无代码测试快速测试SwarmuiAPI
